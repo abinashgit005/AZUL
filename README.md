@@ -24,3 +24,5 @@ provider "azurerm" {
   features {}
 }
 ```
+got below error while trying to variablize the resource group name and location
+![image](https://github.com/abinashgit005/AZUL/assets/78551736/e5f210ef-b7f0-445f-bc05-008a7df05f66)
